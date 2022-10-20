@@ -1,0 +1,2155 @@
+{
+   "CourseName":"BAHÇE TARIMI I",
+   "Questions":[
+      {
+         "QuestionId":3117490,
+         "Text":"Aşağıdakilerden hangisi yaprak sapları yenen sebzelerdendir?",
+         "A":"Havuç",
+         "B":"Turp",
+         "C":"Pırasa",
+         "D":"Kuşkonmaz",
+         "E":"Ravent",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117491,
+         "Text":"Aşağıdakilerden hangisi sıcak iklim sebzelerindendir?",
+         "A":"Turp",
+         "B":"Şalgam",
+         "C":"Pırasa",
+         "D":"Patlıcan",
+         "E":"Nane",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117496,
+         "Text":"Hangisinin anavatanı Anadolu değildir?",
+         "A":"Fındık",
+         "B":"Koca yemiş",
+         "C":"Melengiç",
+         "D":"Portakal",
+         "E":"İncir",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117507,
+         "Text":"Aşağıdakilerden hangisi kökleri yenen sebzelerden biridir ?",
+         "A":"Marul ",
+         "B":"Kuşkonmaz ",
+         "C":"Pancar ",
+         "D":"Nane ",
+         "E":"Fasulye ",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117509,
+         "Text":"Sebze türlerinin kültür şekillerine göre sınıflandırılmasında bamya hangi tür sebze grubuna girer ? ",
+         "A":"Sürekli sebzeler ",
+         "B":"Yumrulu sebzeler ",
+         "C":"Cucurbitaceae grubu sebzeleri",
+         "D":"Malvaceae grubu sebzeleri",
+         "E":"Soğanlı sebzeler ",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117516,
+         "Text":" Prunus amygdalus türünün ait olduğu familya aşağıdakilerden hangisidir?",
+         "A":"Rosaceae",
+         "B":"Rhamnaceae",
+         "C":"Berberidaceae",
+         "D":"Eleagnaceae",
+         "E":"Juglandaceae",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117524,
+         "Text":"Aşağıdaki yumuşak çekirdekli meyve türlerinden hangisi ülkemizde en fazla üretilmektedir?",
+         "A":"Elma",
+         "B":"Armut",
+         "C":"Ayva",
+         "D":"Muşmula",
+         "E":"Üzüm",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117535,
+         "Text":"Aşağıdakilerden hangisi Türkiye’de meyve suyu için  işlenen meyvelerden biri değildir?",
+         "A":"Elma",
+         "B":"Portakal",
+         "C":"Vişne",
+         "D":"Armut",
+         "E":"Üzüm",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117539,
+         "Text":"Kuru erik, taze kayısı, kuru kayısı, mango, papaya ve kuru üzüm aşağıdaki vitaminlerden hangisi açısından zengindir?",
+         "A":"A vitamini",
+         "B":"B vitamini",
+         "C":"Thiamin",
+         "D":"C vitamini",
+         "E":"E vitamini",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117543,
+         "Text":"Başka ülkelerde üretilmiş malların, ülkedeki alıcılar tarafından satın alınması yada ülkeye dış ülkelerden mal girişine .............. denir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru olarak tamamlar?",
+         "A":"İthalat",
+         "B":"İhracat",
+         "C":"Plantasyon",
+         "D":"Liyofilizasyon",
+         "E":"Ticaret",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117562,
+         "Text":"Bir bölgenin iklim ve toprak koşulları ile yer ve yöneyinden oluşan tüm çevresel faktörlere verilen genel ad aşağıdakilerden hangisidir?",
+         "A":"Klimataloji",
+         "B":"Ekoloji",
+         "C":"Transpirasyon",
+         "D":"\n\n\nEtiyolleştirme\n\n\n",
+         "E":"\n\n\nFotoperiyod\n\n\n",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117574,
+         "Text":"Bazı kışlık sebze türlerinin vegetatif gelişme döneminden generatif gelişme dönemine geçişi için, tohum veya fide dönemlerinde belirli sürelerle (4-8 hafta) düşük sıcaklığa (4-10 °C) maruz bırakılmaları işlemine ne ad verilir?",
+         "A":"Katlama",
+         "B":"Vernalizasyon",
+         "C":"Transpirasyon",
+         "D":"Etiyolleştirme",
+         "E":"Işık Entansitesi",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117602,
+         "Text":"Çiçeğin dıştan ikinci halkasını oluşturan, genellikle iri, gösterişli, değişik renkli ve güzel kokulu olan kısmı bitki çiçeğinin hangi kısmıdır?",
+         "A":"Çanak yapraklar",
+         "B":"Taç yapraklar",
+         "C":"Erkek organlar",
+         "D":"Dişi organ",
+         "E":"Tepecik",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117640,
+         "Text":"Aşağıdakilerden hangisi bazı meyve tür ve çeşitlerinin bir yıl verimli olup, ertesi yıl hiç meyve vermemesi veya çok az meyve vermesini yani  periyodisiteyi önlemek amacıyla alınabilecek  önlemler arasında yer almaz?",
+         "A":"Budama",
+         "B":"Gübreleme",
+         "C":"Sulama",
+         "D":"Seyreltme",
+         "E":"Boğma",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117650,
+         "Text":"Aşağıdakilerden hangisi tomurcuklarda  gerçek dinlenmede bitki bünyesinde sentezlenen maddelerden biri değildir?",
+         "A":"Enzimler",
+         "B":"Vitaminler",
+         "C":"Amino asitler",
+         "D":"Glikozitler",
+         "E":"Karbonhidratlar",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117655,
+         "Text":"Bitkinin ilk çiçek taslaklarının görüldüğü zamana kadar geçen dönem aşağıdakilerden hangisidir?",
+         "A":"Olgunluk",
+         "B":"Gençlik",
+         "C":"Yaşlanma",
+         "D":"Sürme",
+         "E":"Köklenme",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117663,
+         "Text":"Aşağıdakilerden hangisi meyve ağaçlarında çiçek dökümü döneminde görülen durumlardan biridir?",
+         "A":"Dişi organı kusurlu olan çiçekler dökülmektedir.",
+         "B":"Birinci dökümden 15-20 gün sonra meydana gelmektedir.",
+         "C":"Dökülen küçük meyvelerde döllenmenin olmadığı tespit edilmiştir.",
+         "D":"Meyveler iri fındık büyüklüğünü aldığı zaman meydana gelir.",
+         "E":" Meyvelerin olgunlaşma periyodunun sonunda tam olgunlaşmadan hemen önce meydana gelir.",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117673,
+         "Text":" İndol bütrik asit (IBA) İndol asetik asit (IAA) Naftalen asetik asit (NAA)   Yukarıdaki oksinlerden hangisi ya da hangileri köklenmeyi teşvik edici özelliğe sahiptir?",
+         "A":"Yalnız I",
+         "B":"Yalnız II",
+         "C":"Yalnız III",
+         "D":"I ve III",
+         "E":"I, II ve III",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117684,
+         "Text":"Meyve ağaçlarında görülen çiçek ve meyve dökümlerinden hangisi ağaç üzerindekimeyve miktarını ayarlayıcı bir etki yapar ve meyveler iri fındık büyüklüğünü aldığı zaman meydana gelir?",
+         "A":"Çiçek Dökümü,",
+         "B":"Küçük Meyve Dökümü,",
+         "C":"Büyük Meyve Dökümü,",
+         "D":"Haziran dökümü,",
+         "E":"Hasat Önü Dökümü.",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117686,
+         "Text":"Bitkilerde karotenoidlerin oluşması ve proteinlerin amino asit ve amidlere dönüşmesi hangi dönemde görülür?",
+         "A":"Çimlenme",
+         "B":"Köklenme",
+         "C":"Gençlik",
+         "D":"Olgunluk",
+         "E":"Yaşlanma",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117479,
+         "Text":"Meyve türlerinin meyve yapılarına göre sınıflandırılmasında, aşağıdakilerden hangisi üzümsü meyveler grubunda yer almaz?",
+         "A":"Ahududu",
+         "B":"Kivi",
+         "C":"Çilek",
+         "D":"İğde",
+         "E":"Üzüm",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117485,
+         "Text":"Aşağıdakilerden hangisi subtropik iklim meyvelerindendir?",
+         "A":"Zeytin",
+         "B":"Badem",
+         "C":"Erik",
+         "D":"Muz",
+         "E":"Kahve",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117495,
+         "Text":"Ovaryum ve bununla ilgili diğer çiçek kısımlarının olgunlaşmasından meydana gelen ve içinde tohumu barındıran generatif organa ne ad verilir?",
+         "A":"Meyve",
+         "B":"Sebze",
+         "C":"Pomoloji",
+         "D":"Sitogenetik",
+         "E":"Orijin",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117513,
+         "Text":"Aşağıdakilerden hangisi sert kabuklu meyvelerden biridir?",
+         "A":"Çay",
+         "B":"Çilek",
+         "C":"Portakal",
+         "D":"Limon",
+         "E":"Ceviz",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117522,
+         "Text":"Aşağıdakilerden hangisi ülkemizde yüksek miktarda üretilen sebzelerden biri değildir?",
+         "A":"Domates",
+         "B":"Karpuz",
+         "C":"Soğan",
+         "D":"Hıyar",
+         "E":"Şalgam",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117558,
+         "Text":"Bitkilerin ışıklanma süresine gösterdikleri tepkiye ne ad verilir?",
+         "A":"Etiyolleşme",
+         "B":"Işık entantisi",
+         "C":"Fotoperiyod",
+         "D":"Fotoperiyodizm",
+         "E":"Fotosentez",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117570,
+         "Text":"\n\n\nTopraktaki Katı fazın inorganik parçacıkları arasında aşağıdakilerden hangisi bulunmaz?\n\n\n",
+         "A":"potasyum",
+         "B":"sodyum",
+         "C":"magnezyum",
+         "D":"kobalt",
+         "E":"kükürt",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117573,
+         "Text":"Meyve çekirdeklerinin ve bazı tohumların dinlenmelerinin kırılarak çimlenebilmeleri için nemli kum vb. içerisinde belli süre düşük sıcaklıkta bekletilmeleri işlemine ne ad verilir?",
+         "A":"Katlama",
+         "B":"Vernalizasyon",
+         "C":"Transpirasyon",
+         "D":"Etiyolleştirme",
+         "E":"Işık Entansitesi",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117578,
+         "Text":"I. Tuzlu topraklar, organik gübreleme yapılarak ıslah edilmeye çalışılabilir.II. Sadece gerektiği kadar sulama yapılmalıdır.III. Aşırı tuzlu topraklarda topraksız yetiştiricilik yöntemi uygulanabilir. Yukarıdaki maddelerden hangisi ya da hangileri tuzluluk sorunu olan toprakların ıslahı ve yetiştiricilik açısından alınacak tedbirler arasındadır?",
+         "A":"Yalnız I",
+         "B":"Yalnız III",
+         "C":"I ve II",
+         "D":"II ve III",
+         "E":"I, II ve III",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117588,
+         "Text":"Hangisi toprak tuzluluğunu etkileyen faktörler arasında yer almaz?",
+         "A":"Aşırı ve yanlış gübrelemeler",
+         "B":"Aşırı sulamalar ",
+         "C":"Uzun yıllar aynı bitki türünün yetiştirilmesi",
+         "D":"Tuzlu yer altı sularıyla sulama yapılması ",
+         "E":"Kötü drenaj",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117589,
+         "Text":"Hangisi hafif asit karakterdeki topraklardan hoşlanan bitkilere örnek olarak verilebilir?",
+         "A":"Kayısı",
+         "B":"Badem",
+         "C":"Karpuz",
+         "D":"Lahana",
+         "E":"Zeytin",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117630,
+         "Text":"Kirazlarda ekonomik bir verim için bitki üzerinde oluşan çiçeklerin meyve tutma oranı aşağıdakilerden hangisidir?",
+         "A":"%40-45",
+         "B":"%50-55",
+         "C":"%10-15",
+         "D":"%15-20",
+         "E":"%25-30",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117633,
+         "Text":"Yaşayan hücrelerde sentezlenen ve tüm hayatsal olaylarda rol alan biyolojik katalizör aşağıdakilerden hangisidir?",
+         "A":"Bitkisel Hormon",
+         "B":"Amino asit",
+         "C":"Enzim",
+         "D":"Absisik asit",
+         "E":"Endosperm",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117642,
+         "Text":"Bitkilerde beliren kitle, biçim, hacim ve ağırlıktaki olumlu ya da olumsuz değişimlerin  genel adı  aşağıdakilerden hangisidir?",
+         "A":"Gelişme",
+         "B":"Dinlenme",
+         "C":" Büyüme",
+         "D":"Çiçeklenme",
+         "E":"Yaşlanma",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117660,
+         "Text":"Bitkilerin büyüme uçlarında (sürgün ucunda ve kök ucunda) yoğun olarak sentezlenen ve köklenmede önemli rol oynayan büyümeyi teşvik edici hormon aşağıdakilerden hangisidir?",
+         "A":"Oksin",
+         "B":"Lipid",
+         "C":"Endosperm",
+         "D":"Absisik asit",
+         "E":"Apikal meristem",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117664,
+         "Text":"Klorofil parçalanması, karotenoidlerin oluşması, hücre zarlarının kademeli olarak parçalanması, lipidlerin hücrede yoğunlaşmaya başlaması, protein kapsamının kademeli olarak azalması, proteinlerin amino asit ve amidlere dönüşmesi bitkinin hangi evresinde gerçekleşir?",
+         "A":"Çimlenme",
+         "B":"Yaşlanma",
+         "C":"Çiçeklenme",
+         "D":"Olgunlaşma ",
+         "E":"Köklenme",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117674,
+         "Text":"Gövdeyi saracak uzunlukta ve üç parmak kadar genişlikte kesilen çinko şeritin ağacın gövdesine sıkıca sarılarak, üstten kalınca bir telle bağlanarak sıkıştırılması işlemine ne ad verilir?",
+         "A":"Budama",
+         "B":"Boğma",
+         "C":"Bilezik alma",
+         "D":"Seyreltme",
+         "E":"Anaç kullanımı",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117682,
+         "Text":"Hangisi bitkilerin gövde, dal, sürgün ve yaprak gibi çeşitli kısımlarından oluşan köklere verilen isimdir?",
+         "A":"Çim kökleri",
+         "B":"Yumru kökler",
+         "C":"Adventif kökler",
+         "D":"Kazık kökler",
+         "E":"Saçak kökler",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117502,
+         "Text":"Hangisi Betulaceae familyasına aittir?",
+         "A":"Akhuş",
+         "B":"Gül ibrişim",
+         "C":"Erguvan",
+         "D":"Amerika Gladiçyası",
+         "E":"Mor salkım",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117525,
+         "Text":"Aşağıdakilerden hangisi ülkemizde en fazla ihraç edilen sert kabuklu meyve türüdür?",
+         "A":"Antep fıstığı",
+         "B":"Ceviz",
+         "C":"Fındık",
+         "D":"Kestane",
+         "E":"Badem",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117528,
+         "Text":"Aşağıdaki sebzelerden hangisi en yüksek kalori değerine sahiptir?",
+         "A":"Kırmızı pancar ",
+         "B":"Tatlı patates",
+         "C":"Alabaş ",
+         "D":"Fasulye ",
+         "E":"Brüksel Lahanası",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117533,
+         "Text":"Son yıllardaki verilere göre, aşağıdakilerden hangisi ülkemizde en yüksek miktarda üretilen sebzedir?",
+         "A":"Domates",
+         "B":"Patlıcan",
+         "C":"Pırasa",
+         "D":"Kabak",
+         "E":"Fasulye",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117561,
+         "Text":"    Yeryüzündeki atmosferik olayların değişimini inceleyen, ortalama değerler olarak ifade eden ve iklim faktörleri ile ilgili bilimsel çalışmalar yapan bilim dalının adı nedir?    ",
+         "A":"    Klimatoloji    ",
+         "B":"   Biyoloji   ",
+         "C":"   Morfoloji   ",
+         "D":"   Fizyoloji   ",
+         "E":"Ekoloji",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117576,
+         "Text":"I. İlkbahar geç donlarının görüldüğü bölgelerde geç çiçek açan meyve tür veya çeşitlerinin yetiştirilmesi.II. Bahçe tesisinde sıraların, soğuk havanın akıp gidebileceği şekilde düzgün oluşturulması.III. Ağaçlara terbiye sistemi uygulanırken alçak yerine, yüksekten taçlandırmanın tercih edilmesi. Yukarıdaki maddelerden hangisi ya da hangileri İlkbaharın geç donlarından bitkileri koruma yolları arasında gösterilebilir?",
+         "A":"Yalnız I",
+         "B":"Yalnız II",
+         "C":"Yalnız III",
+         "D":"II ve III",
+         "E":"I, II ve III",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117580,
+         "Text":"I. Bitkilerde dalların ve genç sürgünlerin kırılmalarına neden olur. Özellikle yeni dikilen genç meyve fidanlarında aşı noktasından kırılmalara neden olabilmektedir.II. Çiçek ve küçük meyve dökümlerine neden olur.III. Yavaş esen soğuk rüzgarlar, çiçek ve meyvelerde donmaya varan soğuk zararı oluşturur.\nYukarıdaki maddelerden hangisi ya da hangileri şiddetli rüzgarların bitkiler üzerindeki mekanik ve fizyolojik etkileri arasında gösterilebilir?",
+         "A":"I, II ve III",
+         "B":"I ve II",
+         "C":"II ve III",
+         "D":"Yalnız III",
+         "E":"Yalnız II",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117597,
+         "Text":"Hangisi rüzgarla tozlanan bitkilerden biridir?",
+         "A":"Çilek",
+         "B":"İncir",
+         "C":"Domates",
+         "D":"Dut",
+         "E":"Nar",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117607,
+         "Text":"Aşağıdakilerden hangisi bileşik meyvedir?",
+         "A":"Elma",
+         "B":"Dut",
+         "C":"Kiraz",
+         "D":"Şeftali",
+         "E":"Kayısı",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117613,
+         "Text":".........,tozlanma ve döllenme olayları sonucunda neslin devamını sağlayan tohum ve tohumun dış kısmında olgunlaşan meyvenin meydana geldikleri yerlerdir.Cümlesinde aşağıdakilerden hangisi tarif edilmektedir?",
+         "A":"Çiçekler",
+         "B":"Yapraklar",
+         "C":"Kökler",
+         "D":"Topraklar",
+         "E":"Çekirdekler",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117627,
+         "Text":"Aşağıdakilerden hangisi döllenme olmaksızın tohum oluşumuna verilen addır? ",
+         "A":"Poliembriyon",
+         "B":"Apomiksis ",
+         "C":"Zigotik embriyoni",
+         "D":"Stenospermokarpi",
+         "E":"Nuseller embriyoni",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117645,
+         "Text":"Bitkilerde sentezlenerek metabolik olaylarda doğrudan veya dolaylı olarak rol alan, en büyük etkinliği enzimlerde kofaktör görevi görmesi olan organik bileşik  aşağıdakilerden hangisidir?",
+         "A":"Vitamin",
+         "B":"Enzim",
+         "C":"Protein",
+         "D":"Amino asit",
+         "E":"Karbonhidrat",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117648,
+         "Text":"Tohumun depo besin maddelerini içeren ve dolayısıyla embriyonun besin ihtiyacını karşılayan bölümü aşağıdakilerden hangisidir?",
+         "A":"Endosperm",
+         "B":"Oksin",
+         "C":"Geotropizm",
+         "D":"Apikal meristem",
+         "E":"Apikal dominansi",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117653,
+         "Text":"Bir bitkinin yaralanan kısmının düzelmesi veya ayrılan, kopan bir parçasından yeni bir yapı, organ hatta tüm bir organizmanın oluşmasına ne ad verilir?",
+         "A":"Rejenerasyon",
+         "B":"Periyodisite",
+         "C":"Alternans",
+         "D":"Senesens",
+         "E":"Yaşlanma",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117656,
+         "Text":"Tepe tomurcuğunun diğer tomurcukların ve bunlardan süren yan sürgünlerin büyüme ve gelişmesi üzerine olan engelleyici etkisine ne ad verilir?",
+         "A":"Apikal dominansi",
+         "B":"Rejenerasyon",
+         "C":"Gerçek dinlenme",
+         "D":"Zorunlu dinlenme",
+         "E":"Karotenoid",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117658,
+         "Text":"Tepe tomurcuğu baskınlığı: Tepe hakimiyeti: Apikal dominansi: Tepe tomurcuğunun, diğer tomurcukların ve bunlardan süren yan sürgünlerin (koltuk sürgünleri) büyüme ve gelişmesi üzerine olan engelleyici etkisidir. Bu durumun tipik örneğinin görüldüğü ağaç türü aşağıdakilerden hangisidir?",
+         "A":"Ardıç",
+         "B":"Meşe",
+         "C":"Gürgen",
+         "D":"Çam",
+         "E":"Çınar",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117665,
+         "Text":"Bazı meyve tür ve çeşitlerinin bir yıl verimli olup, ertesi yıl hiç meyve vermemesi veya çok az meyve vermesi olayına ne ad verilir?",
+         "A":"Endosperm",
+         "B":"Geotrapizm açısı",
+         "C":"Periyodisite",
+         "D":"Apikal meristem",
+         "E":"Fizyolojik denge",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117669,
+         "Text":"Bitkisel organizmanın bir kısmında veya tümünde, aynı zamanda veya farklı zamanlarda canlılık olaylarının adeta durur derecede yavaşlaması sonucu ortaya çıkan fizyolojik olaya ne ad verilir?",
+         "A":"Sentezleme",
+         "B":"Kış uykusu",
+         "C":"Aşılama",
+         "D":"Dinlenme",
+         "E":"Tomurcuklanma",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117473,
+         "Text":"Aşağıdakilerden hangisi bahçe bitkileri içerisinde yer almaz?",
+         "A":"Meyve ağaçları",
+         "B":"Sebzeler",
+         "C":"Tahıllar",
+         "D":"Asmalar",
+         "E":"Süs bitkileri",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117478,
+         "Text":"Aşağıdakilerden hangisi subtropik iklim meyvelerindendir?",
+         "A":"Badem ",
+         "B":"Elma ",
+         "C":"Nar ",
+         "D":"Muz ",
+         "E":"Erik",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117480,
+         "Text":"Sebze türlerinin kültür şekillerine göre sınıflandırılmasında, aşağıdakilerden hangisi sürekli sebzeler grubunda yer alır?",
+         "A":"Kuşkonmaz",
+         "B":"Ispanak",
+         "C":"Karnabahar",
+         "D":"Turp",
+         "E":"Pırasa",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117515,
+         "Text":"Anaç üzerine aşılanan çeşidin oluşturduğu bitkiparçasına ne ad verilir?",
+         "A":"Anaç",
+         "B":"Takım",
+         "C":"Melez",
+         "D":"Kalem",
+         "E":"Çeşit",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117538,
+         "Text":"Aşağıdakilerden hangisi protein ve karbonhidrat açısından zengindir?",
+         "A":"Bezelye",
+         "B":"Lahana",
+         "C":"Sarmısak",
+         "D":"Bakla",
+         "E":"Pırasa",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117545,
+         "Text":"Aşağıdaki turunç türlerinden hangisi en fazla ithalatı yapılmaktadır?",
+         "A":"Portakal",
+         "B":"Greyfurt",
+         "C":"Mandarin",
+         "D":"Turunç",
+         "E":"Limon",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117620,
+         "Text":"Aşağıdakilerden hangisi bahçe kurarken döllenme biyolojisi açısından dikkat edilecek hususlardan birisidir?",
+         "A":"Tozlayıcı bitki, bol besin üretmelidir.",
+         "B":"Tozlayıcı bitki, bol çiçek tozu üretmelidir.",
+         "C":"Tozlayıcı bitki, bol ısı üretmelidir.",
+         "D":"Tozlayıcı bitki, bol gübre tozu üretmelidir.",
+         "E":"Tozlayıcı bitki, bol yağmur üretmelidir.",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117622,
+         "Text":"Kapalı tohumlu bitkilerde tepecikten yumurtalığa doğru uzanan, değişik uzunluklarda ve çoğunlukla silindir şeklindeki kısım aşağıdakilerden hangisidir?",
+         "A":"Taç yaprak",
+         "B":"Boyuncuk",
+         "C":"Dişi organ",
+         "D":"Erkek organ",
+         "E":"Çanak yaprak",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117623,
+         "Text":"Aşağıdakilerden hangisi bir canlı türüne ait kromozom takımlarından iki tane (2n) bulunduran yapıyı ifade eder?",
+         "A":"Haploid",
+         "B":"Ekzokarp",
+         "C":"Diploid",
+         "D":"Kalaza",
+         "E":"Mikropil",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117625,
+         "Text":"I. Eşey organ boyutları II. Taç yaprakların yapısı III. Erkek organların dizilimi IV. Anterlerin erken patlaması Yukarıdakilerden hangileri çiçeklerde tozlanma başarısını etkileyen faktörlerdendir?",
+         "A":"I ve IV",
+         "B":"I ve III",
+         "C":"I, II ve III",
+         "D":"III ve IV",
+         "E":"I, II, III ve IV",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117635,
+         "Text":"Bitkilerde genç büyüme noktalarında (sürgün uçları ve kökler) sentezlenen, ayrıca yoğun olarak embriyo, tohum ve meyvede bulunan; hücre uzamasına neden olarak hızlı büyümeyi sağlayan bitkisel hormon aşağıdakilerden hangisidir?",
+         "A":"Oksin",
+         "B":"Periyodisite",
+         "C":"Amid",
+         "D":"Absisik asit",
+         "E":"Gibberellik asit",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117638,
+         "Text":"Bitkilerin büyüme uçlarında (sürgün ucunda ve kök ucunda) yoğun olarak sentezlenen ve köklenmede önemli rol oynayan büyümeyiteşvik edici bir hormon aşağıdakilerden hangisidir?",
+         "A":"Oksin",
+         "B":"Geotropizm",
+         "C":"Apikal meristem",
+         "D":"Karotenoid",
+         "E":"Amid",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117643,
+         "Text":"Bitkilerin büyüme ve gelişmelerinin temel olarak üç fizyolojik olaya bağlı olduğu bilinmektedir. Bunlardan birincisi fotosentez, ikincisi solunum, üçüncüsü aşağıdakilerden hangisidir??",
+         "A":"Terleme",
+         "B":" Olgunlaşma",
+         "C":"Yaşlanma",
+         "D":"Sürme",
+         "E":"Çimlenme",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117644,
+         "Text":"Yaşayan hücrelerde sentezlenen ve tüm hayatsal olaylarda rol alan biyolojik katalizördür. Tarifi aşağıdakilerden hangisidir?",
+         "A":"Enzim ",
+         "B":"Vitamin ",
+         "C":"Amino asit ",
+         "D":"Karbonhidrat ",
+         "E":"Protein",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117659,
+         "Text":"Bitkilerde köklenme ve aktif büyümenin oluşabilmesi için ortamın sıcaklığı  kaç °C civarında olmalıdır?",
+         "A":"15°C ",
+         "B":"20°C ",
+         "C":"25°C ",
+         "D":"30°C ",
+         "E":"35°C ",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117668,
+         "Text":"Bitkinin yeterli büyüme oranı ve çiçeklenme kapasitesine ulaşılmasının görüldüğü dönem aşağıdakilerden hangisidir?",
+         "A":"Gençlik",
+         "B":"Gençlik kısırlığı",
+         "C":"Olgunluk",
+         "D":"Yaşlanma",
+         "E":"Çimlenme",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117679,
+         "Text":"Bitkinin bir kısmında veya tümünde, aynı zamanda veya farklı zamanlarda canlılık olaylarının adeta durur derecede yavaşlaması sonucu ortaya çıkan fizyolojik bir olaya ne ad verilir?",
+         "A":"Dinlenme",
+         "B":"Meyve dökümü",
+         "C":"Yaşlanma",
+         "D":"Periyodisite",
+         "E":"Rejenerasyon",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117683,
+         "Text":"Hangisi köklenmede bünyesel faktörlerin başında gelen&nbsp;oksinlerden biridir?",
+         "A":"Absistik asit",
+         "B":"SADH",
+         "C":"TIBA",
+         "D":"Indol bütrik asit",
+         "E":"Karotenoid",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117688,
+         "Text":"Bir bitkinin yaralanan kısmının düzelmesi veya ayrılan, kopan bir parçasından yeni bir yapı, organ hatta tüm bir organizmanın oluşması eğilimine ne ad verilir?",
+         "A":"Fizyolojik denge",
+         "B":"Periyodisite",
+         "C":"Rejenerasyon",
+         "D":"Senesens",
+         "E":"Geotropizm",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117476,
+         "Text":"Bahçe bitkilerinde aşı ile çoğaltma ve melezleme programlarının başarısında hangi sınıflandırma etkilidir?",
+         "A":"Botanik sınıflandırma",
+         "B":"Tek ve ya  çok yıllık oluşlarına göre sınıflandırma",
+         "C":"İklim isteklerine göre sınıflandırma",
+         "D":"Tüketilen kısımlarına göre sınıflandırma",
+         "E":"Tüketim şekillerine göre  sınıflandırma",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117494,
+         "Text":"Aşağıdakilerden hangisi sebze olarak sınıflandırılamaz ? ",
+         "A":"Bamya ",
+         "B":"Karpuz ",
+         "C":"Tatlı patates ",
+         "D":"Zeytin ",
+         "E":"Maydanoz ",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117500,
+         "Text":"Verilen meyve türlerinden hangisi/leri yumuşak çekirdekli meyvelerdendir? I- Ayva II- Muşmula III- Kivi",
+         "A":"I ve II",
+         "B":"I ve III",
+         "C":"II ve III",
+         "D":"I, II ve III",
+         "E":"Yalnız III",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117510,
+         "Text":"Aşağıdakilerden hangisi sıcak iklim sebzelerinden biri değildir ?",
+         "A":"Domates ",
+         "B":"Biber ",
+         "C":"Patlıcan ",
+         "D":"Hıyar ",
+         "E":"Karnabahar ",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117526,
+         "Text":"Aşağıdakilerden hangisi ülkemizde üretilen meyve ve sebzelerin işlendiği  sanayi alanlarından biri değildir?",
+         "A":"Meyve suyu üretimi",
+         "B":"Konserve sanayi",
+         "C":"Dondurulmuş meyve-sebze üretimi",
+         "D":"Halk pazarları",
+         "E":"Kurutulmuş meyve-sebze üretimi",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117559,
+         "Text":"Tuzluluk sorunu olan toprakların ıslahı ve yetiştiricilik açısından alınacak tedbirlerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+         "A":"Tuzlu topraklar, organik gübreleme yapılarak ıslah edilmeye çalışılabilir.",
+         "B":"Aşırı tuzlu topraklarda topraksız yetiştiricilik yöntemi uygulanabilir.",
+         "C":"Genetik olarak tuza toleransı yüksek bitki tür ve çeşitleri yetiştirilebilir.",
+         "D":"Örtü altı tarımında sera toprağının tuzlanan en üst katmanı atılıp yerine daha iyi kalitede toprak eklenebilir.",
+         "E":"Bol sulama yapmak.",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117590,
+         "Text":"Yüksek sıcaklık, kuru hava, rüzgar gibi faktörlerin etkisiyle bitkilerin yapraklarındaki stoma açıklıklarından terleme yoluyla su kaybı olayına ne ad verilir?",
+         "A":"Vernalizasyon",
+         "B":"Soğuklama isteği",
+         "C":"Etiyolleştirme",
+         "D":"Hava drenajı",
+         "E":"Transpirasyon",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117593,
+         "Text":"Erkek ve dişi organları birlikte bulunduran çiçeklere ne ad verilir? ",
+         "A":"Hermafrodit",
+         "B":"Gynodioik",
+         "C":"Androdioik",
+         "D":"Trioik",
+         "E":"Gynomonoik",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117617,
+         "Text":"\"Rüzgarla tozlanan bitkilere ........... denir. Antepfıstığı, ceviz, pikan, fındık, kestane, keçiboynuzu ve dut örnek verilebilir\" cümlesindeki boşluğu aşağıdakilerden hangisi doldurur?",
+         "A":"Anemon",
+         "B":"Anemofil",
+         "C":"Ardıç",
+         "D":"Akasya",
+         "E":"Polen",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117634,
+         "Text":"Bitkilerde yapraklarda sentezlenen ve büyümeyi engelleyici etkiye sahip dorminler grubunda yer alan bir bitkisel hormon aşağıdakilerden hangisidir?",
+         "A":"Lipid",
+         "B":"Endosperm",
+         "C":"Gibberellik asit",
+         "D":"Absisik asit",
+         "E":"Amino asit",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117680,
+         "Text":"Hangisi çimlenme için gerekli bir faktör değildir?",
+         "A":"Tohumun gerçek dinlenmede olması",
+         "B":"Tohum içerisindeki embriyonun gelişme aşamalarını tamamlamış, sağlıklı ve canlı olması",
+         "C":"En uygun çevre şartlarının oluşması",
+         "D":"Tohumun uygun derinlikte ekilmesi",
+         "E":"Tohumun nemli bir ortamda su alarak şişmesi",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117685,
+         "Text":"Hangisi meyve ağaçlarında görülen haziran dökümünün nedenlerinden biri değildir?",
+         "A":"Meyveler arasındaki besin maddeleri bakımından rekabet, ",
+         "B":"Döllenmiş tohum sayısı bakımından farklılık, ",
+         "C":"Tohum kalitesi,",
+         "D":"Hormon düzeyleri,",
+         "E":"Olgunlaşan meyvelerin oluşturduğu etilen.",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117475,
+         "Text":"Aşağıdaki sebzelerden hangisinin anavatanı Anadolu’dur?",
+         "A":"Fasulye ",
+         "B":"Semizotu ",
+         "C":"Patates ",
+         "D":"Domates ",
+         "E":"Ebegümeci",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117497,
+         "Text":"Anaç üzerine aşılanan çeşidin oluşturduğu bitki parçasına ne ad verilir?",
+         "A":"Melezleme",
+         "B":"Çeşit",
+         "C":"Kalem",
+         "D":"Mikroklima",
+         "E":"Pomoloji",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117501,
+         "Text":"Aşağıdakilerden hangisi Cucurbitaceae  familyasına ait  sebzelerden biridir?",
+         "A":"Havuç",
+         "B":"Kuşkonmaz",
+         "C":"Kavun",
+         "D":"Lahana",
+         "E":"Bezelye",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117521,
+         "Text":"Aşağıdakilerden hangisi ülkemizde en fazla üretilen meyve türüdür?",
+         "A":"Üzüm",
+         "B":"Ayva",
+         "C":"Ceviz",
+         "D":"Çilek",
+         "E":"Vişne",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117541,
+         "Text":"Dünyada en fazla üretimi yapılan sebze aşağıdakilerden hangisidir?",
+         "A":"Patates",
+         "B":"Domates",
+         "C":"Patlıcan",
+         "D":"Roka",
+         "E":"Marul",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117544,
+         "Text":"Aşağıdakilerden sert kabuklu meyvelerden hangisinin tüketim miktarı en fazladır?",
+         "A":"Ceviz",
+         "B":"Fındık",
+         "C":"Kestane",
+         "D":"Badem",
+         "E":"Antepfıstığı",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117599,
+         "Text":"Döllenme olmaksızın tohumsuz meyve oluşumuna  ne ad verilir?",
+         "A":"Stenospermokarpi",
+         "B":"Partenokarpi",
+         "C":"Triploid",
+         "D":"Poliembriyoni",
+         "E":"Kısırlık",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117604,
+         "Text":"Rüzgarla tozlanan bitkilere ne ad verilir?",
+         "A":"Entomofil bitkiler",
+         "B":"Andromonoik bitkiler",
+         "C":"Gynodioik bitkiler",
+         "D":"Trioik bitkiler",
+         "E":"Anemofil bitkiler",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117618,
+         "Text":"Meyve birçok canlı için besin kaynağı olduğundan............... cümlesini aşağıdaki şıklardan hangisi tamamlar?",
+         "A":"tohumların değişik canlılar tarafından çevreye yayılmasını sağlar.",
+         "B":"havanın  değişik canlılar tarafından çevreye yayılmasını sağlar.",
+         "C":"  taşın değişik canlılar tarafından çevreye yayılmasını sağlar.",
+         "D":"suyun değişik canlılar tarafından çevreye yayılmasını sağlar.",
+         "E":"  ısının değişik canlılar tarafından çevreye yayılmasını sağlar.",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117661,
+         "Text":"Normal şartlarda bitkilerde çiçeklenmeyi takiben gerçekleşen evre aşağıdakilerden hangisidir?",
+         "A":"Olgunlaşma",
+         "B":"Yaşlanma",
+         "C":"Meyve tutumu",
+         "D":"Tozlanma ve döllenme",
+         "E":"Çimlenme",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117486,
+         "Text":"Aşağıdakilerden hangisi sıcak ılıman iklim meyvelerinden değildir?",
+         "A":"Badem",
+         "B":"Antepfıstığı",
+         "C":"Asma",
+         "D":"Şeftali",
+         "E":"Erik",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117527,
+         "Text":"Aşağıdakilerden hangisi protein bakımından en zengin meyve grubudur?",
+         "A":"Yumuşak çekirdekliler",
+         "B":"Sert çekirdekliler",
+         "C":"Turunçgiller",
+         "D":"Sert kabuklular",
+         "E":"Subtropik, üzümsü ve diğer meyveler",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117537,
+         "Text":"Meyveler içerisinde protein ve yağ bakımından en zengin grup aşağıdakilerden hangisidir?",
+         "A":"Subtropik meyveler",
+         "B":"Turunçgiller",
+         "C":"Sert çekirdekliler",
+         "D":"Yumuşak çekirdekliler",
+         "E":"Sert kabuklular",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117546,
+         "Text":"Ticari amaçla bir veya birkaç türle yetiştiricilik yapılan alana .......... denir? Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden handisi doğru olarak tamamlar?",
+         "A":"Plantasyon",
+         "B":"Vejetasyon",
+         "C":"Tarla",
+         "D":"Sera",
+         "E":"Bahçe",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117554,
+         "Text":"Havuç, turp, soğan ve pırasa gibi bazı kışlık sebze türlerinin vegetatif gelişme döneminden generatif gelişme dönemine geçişi için, tohum veya fide dönemlerinde belirli sürelerle düşük sıcaklığa maruz bırakılmaları işlemine ne ad verilir?",
+         "A":"Vernalizasyon",
+         "B":"Katlama",
+         "C":"Optimum sıcaklık",
+         "D":"Soğuklama isteği",
+         "E":"Etkili sıcaklık toplamı isteği",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117557,
+         "Text":"Fotosentezde hangi dalga boyuna sahip ışınlar kullanılır?",
+         "A":"400 Milimikrondan daha kısa",
+         "B":"400-700 Milimikron",
+         "C":"700-800 Milimikron",
+         "D":"800-900 Milimikron",
+         "E":"900 Milimikrondan daha uzun",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117566,
+         "Text":"\n\n\n\n\n\nIşık spektrumunda dalga boyu 700 mm’dan (milimikron) daha uzun ise aşağıdaki etkilerden hangisi görülmektedir? \n\n\n\n\n\n",
+         "A":"\n\n\nbitkilerde cüceleşme (bodurluk)\n\n\n",
+         "B":"\n\n\nyapraklarda kalınlaşma\n\n\n",
+         "C":"\n\n\nyapraklarda tüylenme\n\n\n",
+         "D":"yeryüzünde ısınma",
+         "E":"\n\n\nmutasyonlar (genetik değişimler)\n\n\n",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117614,
+         "Text":"Görevleri; Gösterişli görünümleri ve güzel kokuları ile böcekleri çiçeğe çekerek, tozlanmanın sağlanmasında yardımcı olmaktır. Cümlesinde bu işi yapan aşağıdakilerden hangisidir?",
+         "A":"Çanak Yapraklar",
+         "B":"Erkek Organlar",
+         "C":"Dişi Organlar",
+         "D":"Taç Yapraklar",
+         "E":"Boyuncuk",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117667,
+         "Text":"Aşağıdakilerden hangisi mutlak periyodisite gösteren türlerden biridir?",
+         "A":"Muz",
+         "B":"Zeytin",
+         "C":"Şeftali",
+         "D":"Armut",
+         "E":"Kiraz",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117474,
+         "Text":"Aşağıdakilerden hangisi Türkiye’de yetişen sert çekirdekli meyve türlerinden biridir?",
+         "A":"Kiraz",
+         "B":"Elma",
+         "C":"Ahlat",
+         "D":"Ayva",
+         "E":"Yeni dünya",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117505,
+         "Text":"Aşağıdakilerden hangisi cins adı Citrus olan meyve türlerinden biri değildir ?",
+         "A":"Nar",
+         "B":"Portakal ",
+         "C":"Mandarin ",
+         "D":"Altıntop ",
+         "E":"Limon ",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117523,
+         "Text":"Ülkemizde üretimi en fazla olan meyve türü grubu hangisidir?",
+         "A":"Yumuşak çekirdekliler",
+         "B":"Sert çekirdekliler",
+         "C":"Turunçgiller",
+         "D":"Sert kabuklular",
+         "E":"Subtropik, üzümsü ve diğer meyveler",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117564,
+         "Text":"\n\n\nKış soğuklarından korunmak için alınması gereken önlemler arasında aşağıdakilerden hangisi yoktur?\n\n\n",
+         "A":"Kış soğuklarının etkili olduğu bölgelerde, soğuklara toleransı yüksek olanbitki tür veya çeşitlerini yetiştirmek.",
+         "B":"Geç dönemde (kış aylarına doğru) yoğun azotlu gübreleme yapmak.",
+         "C":"Kışa girerken aşırı sulama yapmamak.",
+         "D":"Fosforlu ve potaslı gübreler bitkilerin soğuklara toleransını arttırdığı için\nbu gübrelemelere önem vermek.",
+         "E":"Malçlama yapmak ve bitkileri örtü altına almak.",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117572,
+         "Text":"\"Yeryüzündeki atmosferik olayların değişimini inceleyen, ortalama değerler olarak ifade eden ve iklim faktörleri ile ilgili bilimsel çalışmalar yapan bilim dalıdır.\" verilen tanım aşağıdaki kavramlardan hangisine aittir?",
+         "A":"Ekoloji",
+         "B":"Klimatoloji",
+         "C":"Katlama",
+         "D":"Vernalizasyon",
+         "E":"Transpirasyon",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117585,
+         "Text":"Hangisi toprak neminin azlığı durumunda ortaya çıkan olumsuzlujklar arasında yer almaz?",
+         "A":"Meyvelerin iriliğinin, şeklinin, renginin ve kalitesinin olumsuz etkilenmesi",
+         "B":"Bitkilerde susuzluk, solgunluk, sararma görülmesi",
+         "C":"Tohum çimlenmesinin engellenmesi",
+         "D":"Çiçek tomurcuklarında anormallikler; sürgün tomurcuklarında ise zayıf gelişme görülmesi",
+         "E":"Toprak kökenli hastalık etmenlerinin artması",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117592,
+         "Text":"Çiçekte polen üretme görevi hangi organa aittir?",
+         "A":"Taç yapraklar",
+         "B":"Çanak yapraklar",
+         "C":"Erkek organlar",
+         "D":"Dişi organ",
+         "E":"Yumurtalık",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117611,
+         "Text":"Canlıların kromozomlarında kalıtsal değişikliklere neden olan olayları hangi kelime ifade eder?",
+         "A":"mutasyon",
+         "B":"mayoz bölünme",
+         "C":"eşey hücre",
+         "D":"döllenme",
+         "E":"tomurcuk",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117631,
+         "Text":"Bitki bünyesinde geri dönmeyecek biçimde hacim ve ağırlık artışı ile beliren olumlu yöndeki şekil değişimlerine ne ad verilir?",
+         "A":"Büyüme",
+         "B":"Gelişme",
+         "C":"Bitki Fizyolojisi",
+         "D":"Bitkisel Hormon",
+         "E":"Geotropizm",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117666,
+         "Text":"Bazı meyve tür ve çeşitlerinin bir yıl verimli olup, ertesi yıl hiç meyve vermemesine ne ad verilir?",
+         "A":"Yaşlanma",
+         "B":"Olgunluk",
+         "C":"Karotenoid",
+         "D":"Rejenerasyon",
+         "E":"Periyodisite",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117687,
+         "Text":"Zeytinde özellikle çekirdekler sertleşmeye başladığı dönemde, periyodisiteve meyve kalitesi için hangi kimyasal uygulanır?",
+         "A":"GA3",
+         "B":"SADH",
+         "C":"TIBA",
+         "D":"ABA",
+         "E":"NAA",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117504,
+         "Text":"Aşağıdakilerden hangisi Leguminosae grubu sebzelerinden biridir ?",
+         "A":"Ispanak ",
+         "B":"Pazı ",
+         "C":"Hindiba ",
+         "D":"Hardal ",
+         "E":"Bezelye ",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117555,
+         "Text":"Herhangi bir bitki tür veya çeşidinin bir bölgede belli bir gelişme dönemini tamamlaması için sınır olarak kabul edilen temel sıcaklık (minimum gelişme-eşik sıcaklığı) baz alınarak bu derecenin üzerindeki��günlük sıcaklık derecelerinin toplamına ne ad verilir?",
+         "A":"Etkili sıcaklık toplamı isteği",
+         "B":"Optimum sıcaklık",
+         "C":"Soğuklama isteği",
+         "D":"İdeal sıcaklık",
+         "E":"Vernalizasyon",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117583,
+         "Text":"Hangisi sonbahar erken donlarından korunmaya özgü bir önlemdir?",
+         "A":"Ağaçlara terbiye sistemi uygulanırken alçak yerine, yüksekten taçlandırmanın tercih edilmesi",
+         "B":"Kış budamasının nispeten geç yapılarak uyanmanın geciktirilmesi ",
+         "C":"İlkbaharda geç çiçek açan çeşitler yerine, çok geççi olmayan çeşitlerin tercih edilmesi",
+         "D":"Don olayının olduğu zamanlarda ateş yakılması, dumanlama, sisleme ve yağmurlama yapılması ve havayı karıştıran mekanik pervanelerin kullanılması.",
+         "E":"Don tehlikesi geçene kadar bitkilerin örtü altına alınması",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117587,
+         "Text":"Hangisi killi-tınlı topraklarda yetiştiriciliği yapılması uygun olan bitkiler arasında yer alır?",
+         "A":"Havuç",
+         "B":"Erik",
+         "C":"Badem",
+         "D":"Patates",
+         "E":"Kayısı",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117612,
+         "Text":"Çiçekte bulunan eşey organlarındaki eşey ana hücrelerinde mayoz bölünme sonucunda erkek ve dişi eşey hücreleri meydana gelir. Bu hücrelerin döllenme yoluyla birleşmesi sonucunda, aşağıdakilerden hangisi meydana gelir?",
+         "A":"Yavru",
+         "B":"Tohum",
+         "C":"Hücre",
+         "D":"Çimlenme",
+         "E":"Bölünme",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117616,
+         "Text":"Böceklerle tozlanan bitkilere ne ad verilir?",
+         "A":"Islah  bitkiler",
+         "B":"Erkek bitkiler",
+         "C":"Entomofil bitkiler",
+         "D":"Renkli bitkiler",
+         "E":"Dişi bitkiler",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117624,
+         "Text":"Aynı birey üzerinde hem dişi, hem de erselik çiçek bulunduran bitkilere ne ad verilmektedir?",
+         "A":"Andromonoik",
+         "B":"Trimonoik",
+         "C":"Androdioik ",
+         "D":"Gynomonoik ",
+         "E":"Gynodioik ",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117629,
+         "Text":"I.Tozlayıcı çeşitler diploid olmalı, triploid olmamalıdır II. Tozlayıcı bitki, bol çiçek tozu üretmelidir  III. Tozlayıcı çeşit, düzenli olarak her yıl bol çiçek oluşturmalıdır  Bahçe kurarken döllenme biyolojisi hususunda yukarıda verilen bilgilerden hangileri doğrudur?",
+         "A":"Yalnız II",
+         "B":"Yalnız III",
+         "C":"I ve III",
+         "D":"I, II ve III",
+         "E":"I ve II",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117632,
+         "Text":"Doğal olarak bitkilerde oluşan, büyüme ile buna bağlı diğer fizyolojik olayları kontrol eden ve oluştukları yerden, bitkinin başka bölgelerine taşınabilen, oralarda da etkili olabilen, çok az miktarlarda bile etkisini gösterebilen organik maddelere verilen genel ad aşağıdakilerden hangisidir?",
+         "A":"Enzim",
+         "B":"Bitkisel Hormon",
+         "C":"Vitamin",
+         "D":"Absisik asit",
+         "E":"Lipid",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117649,
+         "Text":"Bitkilerde ve bazı diğer fotosentetik mikroorganizmalarda bulunan pigment aşağıdakilerden hangisidir?          ",
+         "A":"Karotenoid ",
+         "B":"Periyodisite ",
+         "C":"Alternans ",
+         "D":"Amid ",
+         "E":"Senesens",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117483,
+         "Text":"Yetişen meyveleri, yetiştirmedeki kültür tekniklerini ve meyve ağaçlarındaki fiziksel çalışmaları inceleyen bilim dalı aşağıdakilerden hangisidir?",
+         "A":"Entomoloji",
+         "B":"Fitopatoloji",
+         "C":"Pomoloji",
+         "D":"Sitogenetik",
+         "E":"Toprak bilimi",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117552,
+         "Text":"Bir bitkinin adaptasyon özelliğinin oluşmasında rol oynayan temel faktörler hangileridir?",
+         "A":"Bitkinin genetik yapısı ve bölgenin ekolojisi",
+         "B":"Bölgenin iklim ve toprak özellikleri",
+         "C":"Bitkinin adaptasyon yeteneği ve doğru tohum seçimi",
+         "D":"Bölgenin ekolojisi ve yeterli sulama",
+         "E":"Bölgenin yer ve yöney koşulları",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117556,
+         "Text":"Hangisi bahçe bitkilerini kış soğuklarından korumak için alınacak önlemlerden biri değildir?",
+         "A":"Soğuklara toleransı yüksek olan bitki tür veya çeşitlerini yetiştirmek.",
+         "B":"Kışa girerken aşırı sulama yapmamak.",
+         "C":"Fosforlu ve potaslı gübreler kullanmak.",
+         "D":"Kış aylarına doğru bolca azotlu gübreleme vermek.",
+         "E":"Malçlama yapmak ve bitkileri örtü altına almak.",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117577,
+         "Text":"I. Özellikle külleme, mildiyö ve dip çürüklüğü gibi fungal (mantari) hastalıklarda artış görülür.II Bitkilerde terleme azalacağından köklerle su alımı dolayısıyla da besin maddesi alımı azalır.III. Büyüme ve gelişme yavaşlar. Yukarıdaki maddelerden hangisi ya da hangileri hava neminin yüksek olduğu durumlarda ortaya çıkan olumsuzluklar arasındadır?",
+         "A":"Yalnız I",
+         "B":"Yalnız II",
+         "C":"Yalnız III",
+         "D":"I ve III",
+         "E":"I, II ve III",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117609,
+         "Text":"Aynı tohum kabuğu içerisinde normal olarak bir tane embriyo oluşması gerekirken, 1’den fazla sayıda embriyo oluşmasına ne ad verilir?",
+         "A":"Poliembriyoni",
+         "B":"Apomiksis",
+         "C":"Protandri",
+         "D":"Partenokarpi",
+         "E":"Stenospermokarpi",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117619,
+         "Text":"Eşey hücresi oluşumunda aksaklıklar yaşanabilir. Sert çekirdekli meyve türleri (özellikle kayısı), turunçgiller (özellikle limon ve mandarin) ve zeytin gibi meyve türlerinde daha sık rastlanan bu durum, nasıl tanımlanır?",
+         "A":"mikrobik kısırlık olarak",
+         "B":"çekirdekli kısırlık olarak",
+         "C":"sosyolojik kısırlık olarak",
+         "D":"fizyolojik kısırlık olarak",
+         "E":"psikolojik kısırlık olarak",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117662,
+         "Text":"Bitkilerin çiçeklenme döneminde meydana gelen hangi hava olayı tozlanma ve döllenmeyi engellemektedir?",
+         "A":"Yağmur",
+         "B":"Rüzgar",
+         "C":"Dolu",
+         "D":"Sis",
+         "E":"Kar",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117676,
+         "Text":"Bitkilerin çiçeklenme ile reprodüktif evreye geçmesine ve bu evrede gençliğe özgü olan bazı yapısal özelliklerin de değişime uğramasına ne ad verilir?",
+         "A":"Gençlik",
+         "B":"Gençlik kısırlığı",
+         "C":"Olgunluk",
+         "D":"Rejenerasyon",
+         "E":"Yaşlanma",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117481,
+         "Text":"Hangisi serin iklim sebzelerinden biridir?",
+         "A":"Lahana ",
+         "B":"Kabak ",
+         "C":"Fasulye ",
+         "D":"Biber ",
+         "E":"Patlıcan",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117517,
+         "Text":"Aşağıdakilerden hangisi tropik iklim meyvelerinden biridir?",
+         "A":"İncir",
+         "B":"Zeytin",
+         "C":"Mango",
+         "D":"Armut",
+         "E":"Erik",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117594,
+         "Text":"Aşağıdaki hangisi monoik bir bitkidir?",
+         "A":"Antep fıstığı",
+         "B":"Kestane",
+         "C":"Keçi boynuzu",
+         "D":"Kivi",
+         "E":"İncir",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117608,
+         "Text":"Bir çiçekte bulunan erkek ve dişi eşey organlarından birinin oluşmaması ya da yeterince gelişememesi nedeniyle ortaya çıkan tek eşeylilik durumuna ne ad verilir?",
+         "A":"Partenokarpi",
+         "B":"Eşeysel uyuşmazlıklar",
+         "C":"Fizyolojik kısırlık",
+         "D":"Morfolojik kısırlık",
+         "E":"Gamet kısırlıkları",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117626,
+         "Text":"Erkek ve dişi organların eş zamanlı olarak olgunlaşmaları ve aynı zaman diliminde görev yapabilir durumda olmaları aşağıdakilerden hangisi ile tanımlanmaktadır?",
+         "A":"Homogami",
+         "B":"Prodandri",
+         "C":"Protogini",
+         "D":"Dikogami",
+         "E":"Trioik",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117657,
+         "Text":"Aşağıdakilerden hangisi tohumun çimlenmesini engelleyici nedenlerden biri değildir?",
+         "A":"Tohumun gereğinden fazla derine ekilmesi",
+         "B":"Toprağın çok kuru veya aşırı nemli olması",
+         "C":"Tohum ekimini takiben fazla bastırılarak toprağın sıkıştırılması ",
+         "D":"Toprağın havasız kalması ",
+         "E":"Kaliteli tohum kullanılması",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117670,
+         "Text":"Bitkilerde sentezlenerek metabolik olaylarda doğrudan ya da dolaylı olarak rol alan ve en büyük etkiliği enzimlere kofaktör görevi görmesi olan organik bileşiğe ne ad verilir?",
+         "A":"Vitamin",
+         "B":"Enzim",
+         "C":"Hormon",
+         "D":"Amino asit",
+         "E":"Karbonhidrat",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117477,
+         "Text":"Meyve türlerinin sıcaklık isteklerine göre sınıflandırılmasında, turunçgiller hangi grupta yer alır?",
+         "A":"Tropik iklim meyveleri",
+         "B":"Subtropik iklim meyveleri",
+         "C":"Ilıman iklim meyveleri",
+         "D":"Soğuk  iklim meyveleri",
+         "E":"Sıcak  iklim meyveleri",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117492,
+         "Text":"Aşağıdakilerden hangisi meyveleri yenen sebzelerdendir?",
+         "A":"Patates",
+         "B":"Havuç",
+         "C":"Kavun",
+         "D":"Tere",
+         "E":"Bamya",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117569,
+         "Text":"\n\n\nTuzluluk sorunu olan toprakların ıslahı ve yetiştiricilik açısından alınacak tedbirler arasında aşağıdakilerden hangisi yer almaz?\n\n\n",
+         "A":"Tuzlu topraklar, organik gübreleme yapılarak ıslah edilmeye çalışılabilir.",
+         "B":"Normalden daha fazla sulama yapılmalıdır.",
+         "C":"\n\n\nAşırı tuzlu topraklarda topraksız yetiştiricilik yöntemi uygulanabilir.\n\n\n",
+         "D":"Genetik olarak tuza toleransı yüksek bitki tür ve çeşitleri yetiştirilebilir.",
+         "E":"Örtü altı tarımında sera toprağının tuzlanan en üst katmanı uzaklaştırılıp yerine daha iyi kalitede toprak eklenebilir.",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117575,
+         "Text":"I. Geç dönemde (kış aylarına doğru) aşırı azotlu gübreleme yapmamak.II. Fosforlu ve potaslı gübreler bitkilerin soğuklara toleransını arttırdığı için bu gübrelemelere önem vermek.III. Malçlama yapmak ve bitkileri örtü altına almak. Yukarıdaki maddelerden hangisi ya da hangileri kış soğuklarından korunmak için alınması gereken önlemler arasındandır?",
+         "A":"Yalnız I",
+         "B":"Yalnız II",
+         "C":"I ve II",
+         "D":"II ve III",
+         "E":"I, II ve III",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117579,
+         "Text":"I. Tohumun çimlenebilmesinde toprak nemi olmazsa olmaz koşulların başında geldiğinden yetersiz nem tohum çimlenmesini engellemektedir.II. Bitkilerde susuzluk, solgunluk, sararma ve ileri durumlarda özellikle otsu bitkilerde ölümler görülmektedir.III. Meyvelerin iriliğini, şeklini, rengini ve kalitesini olumsuz etkiler. Yukarıdaki maddelerden hangisi ya da hangileri toprak neminin azlığı durumunu değerlendirecek olursak ortaya çıkan olumsuzluklar arasında yer almaktadır?",
+         "A":"Yalnız I",
+         "B":"Yalnız II",
+         "C":"I ve II",
+         "D":"II ve III",
+         "E":"I, II ve III",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117582,
+         "Text":"Bazı kışlık sebze türlerinin vegetatif gelişme döneminden generatif gelişme dönemine geçişi için, tohum veya fide dönemlerinde belirli sürelerle(4-8 hafta) düşük sıcaklığa (4-10 °C) maruz bırakılmaları işlemine ne ad verilir?",
+         "A":"Soğuklama isteği",
+         "B":"Vernalizasyon",
+         "C":"Etkili sıcaklık toplamı isteği",
+         "D":"Optimum sıcaklık",
+         "E":"Etiyolleştirme",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117605,
+         "Text":"Aşağıdakilerden hangisi tozlanma başarısını etkileyen nedenlerden biri değildir?",
+         "A":"Hava sıcaklığı",
+         "B":"Bitki kökü",
+         "C":"Yağışlar",
+         "D":"Hava nemi",
+         "E":"Rüzgar",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117646,
+         "Text":"Canlının yapısına katıldığı gibi enerji de sağlayan karbon, hidrojen ve oksijen elementlerinden oluşan organik bileşiklerin genel adı nedir?",
+         "A":"Karbonhidrat ",
+         "B":"Vitamin",
+         "C":"Protein ",
+         "D":"Amino asit ",
+         "E":"Enzim ",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117671,
+         "Text":"Bazı bitkilerde çekirdeğin kabuğu sert ve geçirimsiz bir yapıyla kaplı olması, tohumun içerisine su ve hava girişini önlemekte dolayısıyla çimlenmeye engel olmaktadır. Bu durum aşağıdaki meyve çeşitlerinden hangisinde görülmez?",
+         "A":"Kiraz",
+         "B":"Kayısı",
+         "C":"Erik",
+         "D":"Ceviz",
+         "E":"Elma",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117672,
+         "Text":"Aşağıdakilerden hangisi tohumlarının optimum çimlenme sıcaklığı 30-35°C olan sıcak iklim sebzelerdendir?",
+         "A":"Marul",
+         "B":"Soğan",
+         "C":"Kabak",
+         "D":"Başsalata",
+         "E":"Pırasa",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117675,
+         "Text":" Çevre koşullarına bağlı nedenler Döllenme noksanlığına bağlı nedenler Fizyolojik kökenli nedenler  Yukarıdakilerden hangisi ya da hangileri bahçe bitkilerinde görülen çiçek ve meyve dökümlerinin başlıca nedenlerindendir?",
+         "A":"Yalnız I",
+         "B":"Yalnız III",
+         "C":"I ve II",
+         "D":"II ve III",
+         "E":"I, II ve III",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117529,
+         "Text":"Aşağıdakilerden hangisi kalsiyum açısından en zengin sebzedir?",
+         "A":"Alabaş ",
+         "B":"Pazı ",
+         "C":"Turp ",
+         "D":"Enginar ",
+         "E":"Kereviz",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117532,
+         "Text":"Son yıllardaki verilere göre, aşağıdakilerden hangisi ülkemizde en yüksek miktarda üretilen meyvelerden biridir?",
+         "A":"Armut",
+         "B":"Üzüm",
+         "C":"Erik",
+         "D":"Kiraz",
+         "E":"Ceviz",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117567,
+         "Text":"   Kısa gün bitkileri ve uzun gün bitkileri günlük kaç saat ışıklanmaya ihtiyaç duyarlar?   ",
+         "A":"   Kısa gün bitkileri günlük 4-8 saat, Uzun gün bitkileri ise günlük 8-10 saat    ",
+         "B":"Kısa gün bitkileri günlük 6-12 saat, Uzun gün bitkileri ise günlük 10-14 saat ",
+         "C":"Kısa gün bitkileri günlük 8-14 saat, Uzun gün bitkileri ise günlük 14-16 saat ",
+         "D":"Kısa gün bitkileri günlük 10-12 saat, Uzun gün bitkileri ise günlük 14-18 saat ",
+         "E":"Kısa gün bitkileri günlük 10-14 saat, Uzun gün bitkileri ise günlük 14-16 saat ",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117615,
+         "Text":"Gelişmekte olan tohum taslağındaki dişi eşey ana hücresinde meydana gelen mayoz bölünme sonrasında kaç yavru hücre oluşur?",
+         "A":"1",
+         "B":"2",
+         "C":"4",
+         "D":"5",
+         "E":"8",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117508,
+         "Text":"Sebze türlerinin yenilen kısımlarına göre sınıflandırılmasında iç bakla hangi sebze grubuna dahildir ?",
+         "A":"Yumruları yenen sebzeler ",
+         "B":"Kuru veya taze olarak tohumları yenen sebzeler",
+         "C":"Yaprakları yenen sebzeler",
+         "D":"Yaprak sapları yenen sebzeler",
+         "E":"Kökleri yenen sebzeler",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117520,
+         "Text":"Crocus neapolitanus (Safran) bitkisi hangi familyaya aittir?",
+         "A":"Amaryllidaceae",
+         "B":"Iridaceae",
+         "C":"Orchidaceae",
+         "D":"Caryophyllaceae",
+         "E":"Araceae",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117531,
+         "Text":"Aşağıdakilerden hangisi dünyada en yüksek alan ve miktarda yetiştirilen meyvelerden biridir?",
+         "A":"Çilek",
+         "B":"Armut",
+         "C":"Elma",
+         "D":"Kiraz",
+         "E":"Ayva",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117534,
+         "Text":"Aşağıdaki meyvelerden hangisinin A vitamini içeriği daha fazladır?",
+         "A":"Armut",
+         "B":"Ceviz",
+         "C":"Çilek",
+         "D":"Kuru incir",
+         "E":"Mango",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117540,
+         "Text":"Aşağıdakilerden hangisi Türkiye bitkisel üretim alanları içinde en geniş olandır?",
+         "A":"Ekili alanlar",
+         "B":"Bağ alanları",
+         "C":"Meyve bahçeleri ",
+         "D":"Zeytinlikler",
+         "E":"Sebze bahçeleri",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117560,
+         "Text":"Özellikle çok yıllık bahçe bitkilerinin yetiştiriciliğinde veya bir yerde uzun yıllar boyunca aynı bitki türünün yetiştirilmesi sonucunda toprağın verimsizleşmesi durumuna ne ad verilir?",
+         "A":"Toprak fakirleşmesi",
+         "B":"Toprak zehirlenmesi",
+         "C":"Toprak bozulması",
+         "D":"Toprak yorgunluğu",
+         "E":"Toprak tuzluluğu",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117571,
+         "Text":"\"Bir bölgenin iklim ve toprak koşulları ile yer ve yöneyinden oluşan tüm çevresel faktörlere verilen genel bir addır.\" Verilen tanım aşağıdaki kavramlardan hangisine aittir?",
+         "A":"Ekoloji",
+         "B":"İklim",
+         "C":"Klimatoloji",
+         "D":"Transpirasyon",
+         "E":"Etiyolleştirme",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117677,
+         "Text":"Aşağıdakilerden hangisi&nbsp;periyodisiteyi &ouml;nlemek amacıyla alınabilecek &ouml;nlemlerden değildir?",
+         "A":"Pestisit kullanmak",
+         "B":"Bodur ana&ccedil; kullanmak",
+         "C":"G&uuml;breleme",
+         "D":"Sulama",
+         "E":"Budama",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117484,
+         "Text":"Aşağıdakilerden hangisi bahçe bitkilerinin uluslararası bir sınıflandırma şeklidir?",
+         "A":"Tek yıllık",
+         "B":"Çok yıllık",
+         "C":"İklim isteklerine",
+         "D":"Tüketilen kısımlarına",
+         "E":"Botanik",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117498,
+         "Text":"Hacıhaliloğlu kayısı çeşidi düşünüldüğünde taksonomik sınıflandırmaya göre hangisi familyadır?",
+         "A":"Rosales",
+         "B":"Rosaceae",
+         "C":"Prunus",
+         "D":"Prunus armeniaca",
+         "E":"Hacıhaliloğlu",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117499,
+         "Text":"Hangisi tropik iklim meyvelerinden biridir?",
+         "A":"Elma",
+         "B":"Erik",
+         "C":"Şeftali",
+         "D":"Badem",
+         "E":"Kakao",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117519,
+         "Text":"Aşağıdakilerden hangisi Çiçek veya çiçek tablası yenen sebzelerdendir?",
+         "A":"Enginar",
+         "B":"Domates",
+         "C":"Pırasa",
+         "D":"Havuç",
+         "E":"Yer elması",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117628,
+         "Text":"Aşağıda verilen bilgilerden hangisi yanlıştır?",
+         "A":"Çok tohumlu bitkilerde, içinde daha fazla sayıda döllenmiş tohum taslağı bulunduran yumurtalıkların meyveye dönüşme şansı daha fazladır",
+         "B":"Erken dönemde tozlanıp döllenen çiçeklerin, daha geç döllenenlere oranla meyveye dönüşme şansı daha fazladır",
+         "C":"Dal üzerindeki tozlanmış çiçek sayısı, dalın meyve besleme potansiyelinden az olmaması gerektiği gibi, dalın taşıma gücü önemli değildir",
+         "D":"Aynı bitki üzerindeki kuvvetli bir dalda bulunan çiçeklerin, zayıf daldakilere oranla meyve oluşturma şansı daha yüksektir",
+         "E":"Böcekle tozlanan bitkilerde tozlayıcı böcek etkinliğinin; rüzgarla tozlananlarda ise hava akımının istenen düzeyde olması halinde meyve tutumu olumlu etkilenir ",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117518,
+         "Text":"Aşağıdakilerden hangisi yumrulu sebzelerdne biridir?",
+         "A":"Ispanak",
+         "B":"Lahana",
+         "C":"Kavun",
+         "D":"Tatlı patates",
+         "E":"Nane",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117542,
+         "Text":"Türkiye’de meyve üretimi açısından meyvelerde tür gruplarına göre aşağıdakilerden hangisinin üretimim en azdır?",
+         "A":"Sert kabuklular",
+         "B":"Yumuşak çekirdekliler",
+         "C":"Sert çekirdekliler",
+         "D":"Turunçgiller",
+         "E":"Subtropik, üzümsü ve diğer meyveler",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117551,
+         "Text":"Bir bölgenin iklim ve toprak koşulları ile yer ve yöneyinden oluşan tüm çevresel faktörlere ne ad verilir?",
+         "A":"İklim",
+         "B":"Klimatoloji",
+         "C":"Ekoloji",
+         "D":"Adaptasyon koşulları",
+         "E":"Arazi",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117603,
+         "Text":"Aşağıdaki hangi meyve türünde trimonoik bitki özelliği görülür?",
+         "A":"Muz",
+         "B":"Elma",
+         "C":"Kayısı",
+         "D":"Armut",
+         "E":"Ayva",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117651,
+         "Text":"Bitkilerde yapraklarda sentezlenen ve büyümeyi engelleyici etkiye sahip dorminler grubunda yer alan bir bitkisel hormona ne ad verilir?",
+         "A":"Absisik asit",
+         "B":"Gibberellik asit",
+         "C":"Salisilik asit",
+         "D":"Linoleik asit",
+         "E":"Glukronik asit",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117530,
+         "Text":"Aşağıdakilerden hangisi en fazla C vitamini içeren sebzedir?",
+         "A":"Ispanak ",
+         "B":"Lahana ",
+         "C":"Şalgam ",
+         "D":"Biber ",
+         "E":"Karnabahar",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117586,
+         "Text":"Hangisi şiddetli rüzgarların bitkiler üzerindeki mekanik ve fizyolojik etkileri arasında yer almaz?",
+         "A":"Havanın ısınmasına neden olarak erkenciliği teşvik eder.",
+         "B":"Çiçek ve meyvelerde donmaya varan soğuk zararı oluşturur.",
+         "C":"Yeni dikilen genç meyve fidanlarında aşı noktasından kırılmalara neden olur.",
+         "D":"Çiçek tozlarının canlılıklarını olumsuz etkiler.",
+         "E":"Çiçek ve küçük meyve dökümlerine neden olur.",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117595,
+         "Text":"Aşağıdakilerden hangisi dioik bir bitkidir?",
+         "A":"Fındık",
+         "B":"Kestane",
+         "C":"Ceviz",
+         "D":"Pikan",
+         "E":"Antepfıstığı",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117565,
+         "Text":"\n\n\nİlkbaharın geç donlarından bitkileri koruma yöntemleri arasında aşağıdakilerden hangisi yoktur?\n\n\n",
+         "A":"İlkbahar geç donlarının görüldüğü bölgelerde geç çiçek açan meyve tür veya çeşitlerinin yetiştirilmesi.",
+         "B":"Bahçe tesisinde sıraların, soğuk havanın akıp gidebileceği şekilde düzgün oluşturulması",
+         "C":"Kış budamasının nispeten erken yapılarak uyanmanın geciktirilmesi (özellikle bağlarda).",
+         "D":"Don tehlikesi geçene kadar bitkilerin örtü altına alınması (özellikle sebzelerve çilek bitkisi).",
+         "E":"Ağaçlara terbiye sistemi uygulanırken alçak yerine, yüksekten taçlandırmanın tercih edilmesi.",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117606,
+         "Text":"Aşağıdakilerden hangisi dikogami özelliği gösteren bir bitkidir?",
+         "A":"Antepfıstığı",
+         "B":"Mandalina",
+         "C":"Fındık",
+         "D":"Kavun",
+         "E":"Brokoli",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117641,
+         "Text":"Bitki bünyesinde geri dönmeyecek biçimde hacim ve ağırlık artışı ile beliren olumlu yöndeki şekil değişimleridir. Tarifi bize aşağıdakilerden hangisi olduğunu anlamaktadır? ",
+         "A":" Büyüme",
+         "B":"Gelişme",
+         "C":" Çimlenme",
+         "D":"Köklenme",
+         "E":"Çiçeklenme",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117678,
+         "Text":" Sulama Budama Terbiye Hastalık ve zararlılarla bulaşmış bitki kısımlarının kesilip atılması Çelik, aşı ve doku kültürü ile çoğaltım  Yukarıdaki uygulamalardan hangisi ya da hangileri ile organizmanın rejenerasyon yeteneğinden faydalanılır?",
+         "A":"I ve IV",
+         "B":"II ve III",
+         "C":"III, IV ve V",
+         "D":"II, III, IV ve V",
+         "E":"I, II, III, IV ve V",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117489,
+         "Text":"Aşağıdakilerden hangisi Cucurbitaceae grubu sebzelerinden biridir?",
+         "A":"Fasulye",
+         "B":"Bezelye",
+         "C":"Biber",
+         "D":"Acur",
+         "E":"Patates",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117503,
+         "Text":"Hangisi/leri serin iklim sebzelerinden biridir? I- Ispanak II- Patlıcan III- Şalgam",
+         "A":"I ve II",
+         "B":"I ve III",
+         "C":"II ve III",
+         "D":"I, II ve III",
+         "E":"Yalnız II",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117512,
+         "Text":"Meyve yetiştiriciliğini,  yetiştirmedekikültür tekniklerini ve meyve ağaçlarındaki fiziksel çalışmaların inceleyen bilim dalına ne ad verilir?",
+         "A":"Pomoloji",
+         "B":"Sitogenetik",
+         "C":"Genetik",
+         "D":"Entomoloji",
+         "E":"Palinoloji",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117654,
+         "Text":"Meyvelerin olgunlaşma periyodunun sonunda tam olgunlaşmadan hemen önce meydana gelen  döküm aşağıdakilerden hangisidir?",
+         "A":"Çiçek Dökümü",
+         "B":"Haziran Dökümü",
+         "C":"Hasat Önü Dökümü",
+         "D":"Küçük Meyve Dökümü",
+         "E":"Meyve Dökümü",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117553,
+         "Text":"Yeryüzündeki atmosferik olayların değişimini inceleyen, ortalama değerler olarak ifade eden ve iklim faktörleri ile ilgili bilimsel çalışmalar yapan bilim dalı hangisidir?",
+         "A":"Ekoloji",
+         "B":"Klimatoloji",
+         "C":"Jeoloji",
+         "D":"Astroloji",
+         "E":"Biyoloji",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117581,
+         "Text":"Bitkilerin yeryüzünde yayılımını ve bir bölgede verimli bir şekilde yetiştiriciliğinin yapılmasını sınırlayan en önemli iklim faktörü hangisidir?",
+         "A":"Sıcaklık",
+         "B":"Nem",
+         "C":"Rüzgar",
+         "D":"Işık",
+         "E":"Toprak",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117601,
+         "Text":"Aşağıdakilerden hangisi \"herdem yeşil bitkiler\"e örnek olarak gösterilebilir?",
+         "A":"Buğday",
+         "B":"Kiraz",
+         "C":"Kayısı",
+         "D":"Zeytin",
+         "E":"Fındık",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117621,
+         "Text":"Çok hücreli canlılarda sadece eşey ana hücrelerinde meydana gelen ve eşey hücrelerinin oluşumuyla sonuçlanan bölünme şekli aşağıdakilerden hangisidir?",
+         "A":"Mayoz bölünme",
+         "B":"Mutasyon",
+         "C":"Soma",
+         "D":"Döllenme",
+         "E":"Tozlanma",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117511,
+         "Text":"Ovaryum ve bununla ilgili diğer çiçek kısımlarınınolgunlaşmasından meydana gelen ve içinde tohumu barındıran generatif organa ne ad verilir?",
+         "A":"Meyve",
+         "B":"Yaprak",
+         "C":"Gövde",
+         "D":"Tohum",
+         "E":"Kök",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117636,
+         "Text":"Biyolojik kaynaklı organik bileşikler olup, yağ asitleri ile ilişkileri olan heterojen bir grup hangisidir?",
+         "A":"Lipid",
+         "B":"Karotenoid",
+         "C":"Oksin",
+         "D":"Absisik asit",
+         "E":"Endosperm",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117547,
+         "Text":"Aşağıdakilerden hangisi ülkemizde ithalatı en fazla yapılan meyvesi için yetiştirilen sebzelerdendir?",
+         "A":"Karpuz",
+         "B":"Kavun",
+         "C":"Hıyar",
+         "D":"Biber",
+         "E":"Domates",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117600,
+         "Text":"Meyve tutumu ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+         "A":"Hava neminin çok yüksek veya düşük olması tohum ve meyve oluşumunu olumsuz etkiler.",
+         "B":"Bakım işlemlerinin zamanında ve gerektiği şekilde yapılması meyve tutumunu olumlu etkiler.",
+         "C":"Morfolojik kısırlık, gamet kısırlıkları veya eşeysel uyuşmazlık durumları, meyve tutumunu olumsuz etkiler.",
+         "D":"Erken dönemde tozlanıp döllenen çiçeklerin, daha geç döllenenlere oranla meyveye dönüşme şansı daha azdır.",
+         "E":"Yetiştiricilik alanı içerisinde bulunan tozlayıcı bitki sayısı arttıkça, meyve tutma olasılığı da artar.",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117681,
+         "Text":"Tepe tomurcuğunun, diğer tomurcukların ve bunlardan süren yan sürgünlerin büyüme ve gelişmesi üzerine olan engelleyici etkisine ne denir?",
+         "A":"Apikal meristem",
+         "B":"Boğma",
+         "C":"Karotenoid",
+         "D":"Geotropizm açısı",
+         "E":"Apikal dominansi",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117487,
+         "Text":"Aşağıdakilerden hangisi yumuşak çekirdekli meyve türlerindendir?",
+         "A":"Erik",
+         "B":"Alıç",
+         "C":"Kayısı",
+         "D":"Fındık",
+         "E":"Kestane",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117536,
+         "Text":"İşlenen başlıca ürünleri arasında patates, yeşil ve kırmızı biber, domates, pırasa, bezelye, fasulye, çilek, vişne, kiraz, erik, kayısı olan sanayi dalı aşağıdakilerden hangisidir?",
+         "A":"Konserve meyve-sebze sanayi",
+         "B":"Meyve suyu sanayi",
+         "C":"Dondurulmuş meyve sebze sanayi",
+         "D":"Sebze ve meyve kurutma sanayi",
+         "E":"Yağ sanayi",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117584,
+         "Text":"Bazı bahçe bitkilerinin yetiştiriciliğinde, bitkinin tüketilen kısımlarının beyaz veya beyaza yakın renkler (krem, açık sarı vb.) olması istendiğindenbu kısımların çoğunlukla toprakla örtülmesi sonucu ışık almasının engellenmesi olayına ne ad verilir?",
+         "A":"Fotoperiyodizm",
+         "B":"Işık entansitesi",
+         "C":"Katlama",
+         "D":"Etiyolleştirme",
+         "E":"Transpirasyon",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117493,
+         "Text":"Aşağıdakilerden hangisi sert çekirdekli meyve türlerinden biridir ? ",
+         "A":"Portakal ",
+         "B":"İncir ",
+         "C":"Şeftali ",
+         "D":"Ceviz ",
+         "E":"Elma ",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117506,
+         "Text":"Aşağıdakilerden hangisi subtropik iklim meyveleri arasında değildir ?",
+         "A":"Hindistan cevizi ",
+         "B":"Zeytin ",
+         "C":"İncir ",
+         "D":"Nar ",
+         "E":"Kivi ",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117548,
+         "Text":"Ülkemizde kişi başına tüketimde aşağıdakilerden hangisi en fazladır?",
+         "A":"Lahana",
+         "B":"Marul",
+         "C":"Ispanak",
+         "D":"Karnabahar",
+         "E":"Brokoli",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117482,
+         "Text":"Sebze Türlerinin Yenilen Kısımlarına Göre Sınıflandırılmasında, hangisi kokulu otlar grubunda yer alır?",
+         "A":"Sarımsak",
+         "B":"Su teresi",
+         "C":"Semizotu",
+         "D":"Maydanoz",
+         "E":"Ebegümeci",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117610,
+         "Text":"Aşağıdakilerden hangisi bahçe kurarken döllenme biyolojisi açısından dikkat edilecek hususlardan biri değildir?",
+         "A":"Tozlayıcı bitki, bol çiçek tozu üretmelidir.",
+         "B":"Tozlayıcı çeşit, düzenli olarak her yıl bol çiçek oluşturmalıdır.",
+         "C":"Tozlayıcı çeşit, pazarda tutulan kaliteli bir çeşit olmalıdır.",
+         "D":"Tozlayıcı ile ana çeşit, aynı zamanda çiçeklenmeli ve çiçeklenme süreleri uzun bir zaman diliminde çakışmalıdır.",
+         "E":"Tozlayıcı çeşitler triploid olmalıdır.",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117639,
+         "Text":" Soğan, pırasa, lahana, marul, enginar gibi sebzelerde sürgün ucunda bulunan ve hızlı bölünme yeteneğine sahip olan doku aşağıdakilerden hangisidir?",
+         "A":"Endosperm",
+         "B":"Tepe hakimiyeti",
+         "C":"Apikal dominansi",
+         "D":"Geotropizm",
+         "E":"Apikal meristem",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117514,
+         "Text":"Aşağıdakilerden hangisi üzümsü meyvelerden biri değildir?",
+         "A":"Çilek",
+         "B":"Ahududu",
+         "C":"Nar",
+         "D":"Böğürtlen",
+         "E":"Frenk üzümü",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117637,
+         "Text":"Özellikle çam ağaçlarında görülen tepe tomurcuğunun, diğer tomurcukların ve bunlardan süren yan sürgünlerin (koltuk sürgünleri) büyüme ve gelişmesi üzerine olan engelleyici etkisi aşağıdakilerden hangisiyle tanımlanır?",
+         "A":"Apikal meristem",
+         "B":"Apikal dominansi",
+         "C":"Oksin",
+         "D":"Fizyolojik denge",
+         "E":"Senesens",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117549,
+         "Text":"Meyveler içerisinde  grubu protein ve yağ bakımından en zengin grup aşağıdakilerden hangisidir?",
+         "A":"Sert kabuklular",
+         "B":"Zeytin",
+         "C":"Kuru incir",
+         "D":"Muz",
+         "E":"Kayısı",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117598,
+         "Text":"Gelişen ve tüketilen kısımlarına göre aşağıdakilerden hangisi yalancı meyve olarak sınıflandırılır?",
+         "A":"Şeftali",
+         "B":"Potakal",
+         "C":"Çilek",
+         "D":"Biber",
+         "E":"Patlıcan",
+         "CorrectAnswer":"C"
+      },
+      {
+         "QuestionId":3117647,
+         "Text":"Bitkilerin büyüme uçlarında (sürgün ucunda ve kök ucunda) yoğun olarak sentezlenen ve köklenmede önemli rol oynayan büyümeyi teşvik edici hormon  aşağıdakilerden hangisidir?",
+         "A":"Oksin",
+         "B":"Apikal meristem",
+         "C":"Geotropizm",
+         "D":"Apikal dominansi",
+         "E":"Endosperm",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117488,
+         "Text":"Aşağıdakilerden hangisi bileşik meyve türlerinden değildir?",
+         "A":"Çilek",
+         "B":"İncir",
+         "C":"Nar",
+         "D":"Dut",
+         "E":"Böğürtlen",
+         "CorrectAnswer":"A"
+      },
+      {
+         "QuestionId":3117652,
+         "Text":"Herhangi bir bitki organının kesilerek veya koparılarak bitkiden uzaklaştırılmasına ne ad verilir?",
+         "A":"Boğma",
+         "B":"Budama",
+         "C":"Bilezik alma",
+         "D":"Seyreltme",
+         "E":"Kültüre alma",
+         "CorrectAnswer":"B"
+      },
+      {
+         "QuestionId":3117550,
+         "Text":"Ülkemizde konserve işleme sanayi ağırlıklı olarak hangi sebzeleri işlemektedir? ",
+         "A":"bakla, bamya, mısır",
+         "B":"domates, lahana, hıyar",
+         "C":"fasulye, avakado, mısır",
+         "D":"bezelye,  havuç, kereviz",
+         "E":"bezelye, fasulye, bamya ",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117596,
+         "Text":"Böceklerle tozlanan bitkilere ne ad verilir?",
+         "A":"Anemofil bitkiler",
+         "B":"Andromonoik bitkiler",
+         "C":"Dioik bitkiler",
+         "D":"Hermafrodit bitkiler",
+         "E":"Entomofil bitkiler",
+         "CorrectAnswer":"E"
+      },
+      {
+         "QuestionId":3117568,
+         "Text":"   Bahçe bitkileri yetiştiriciliği yapılan yerde optimum nem aralığının kaç olması istenir?   ",
+         "A":"    % 40-60   ",
+         "B":" % 50-70",
+         "C":" % 50-60",
+         "D":" % 60-70",
+         "E":" % 70-80",
+         "CorrectAnswer":"D"
+      },
+      {
+         "QuestionId":3117563,
+         "Text":"   Çok çeşitli sıcaklık derecelerinde yaşamlarını sürdürebilen bitkiler olmakla beraber bahçe bitkileri genellikle hangi optimum sıcaklık dereceleri aralığında yetiştirilebilmektedir?    ",
+         "A":"5-48 °C",
+         "B":"2-25°C",
+         "C":"5-36 °C",
+         "D":"10-37 °C",
+         "E":"10-45 °C",
+         "CorrectAnswer":"C"
+      }
+   ]
+}
